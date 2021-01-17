@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <Heading />
+      <Note />
       <Footer />
     </div>
   );
