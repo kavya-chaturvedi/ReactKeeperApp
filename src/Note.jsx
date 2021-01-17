@@ -5,7 +5,7 @@ function Note() {
   var currentYear = date.getFullYear();
 
   return (
-    <div>
+    <div className="note">
       <h1>This is Content Title</h1>
       <p>This is Content Paragraph</p>
     </div>
